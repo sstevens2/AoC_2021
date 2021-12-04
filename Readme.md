@@ -34,7 +34,20 @@ Sarah Stevens working on the [Advent of Code](https://adventofcode.com/2021)
   
   Python solutions were fun.  I probably could have done with another function to clean
   up the repeated while loops in pt 2.  I am starting to like while loops more.
+  
   The R pt 1 was pretty nice with a tidy solution.  Could probably repeat my python
   solution in R but think I'll only do R parts where I can think of a solution with data
   frames or mapping or something.
 </details>
+
+<details>
+  <summary> Day 4</summary>
+  
+  Python solutions were fun.  I think maybe I could have thought of a better way with arrays
+  to find the scores of the winners/losers.  I'm learning a lot about np arrays in addition
+  to getting better at while loops.
+  
+  Think I'm going to skip an R solution today.  I'll try to start with that for tomorrow's
+  puzzle to push myself to learn new things in R as well.
+</details>
+
