@@ -51,3 +51,19 @@ Sarah Stevens working on the [Advent of Code](https://adventofcode.com/2021)
   puzzle to push myself to learn new things in R as well.
 </details>
 
+<details>
+  <summary> Day 5</summary>
+  
+  I lied yesterday, I might skip the R solutions for a while.
+  Maybe I'll come back for them later.
+  As these puzzles take a bit longer, I've not really been feeling like doing them in both languages.
+  
+  For today's python solve, I thought I might use np like yesterday but then ended up not 
+  using it since the location of the lines isn't as important as the count of how many
+  lines cross each point.  That does mean I flipped the x and y coords for no reason.
+  I still find it weird that it is row, column which is kind of the opposite of x, y.
+  One other thing I've noticed is I'm getting better at list
+  comprehensions.  I did have to write out all the options for the pt 2 transformations,
+  which seems silly now but somehow I couldn't keep it straight in my head. 
+</details>
+
