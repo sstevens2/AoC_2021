@@ -95,6 +95,17 @@ Sarah Stevens working on the [Advent of Code](https://adventofcode.com/2021)
   through all the positions that were in the input instead of all the possible positions.
   For part 1 I got lucky it was one of the existing positions but that wasn't true for part
   2 where all the subs needed to move.
+  
+  Was reviewing code from someone else I know who is also doing the AoC this year.
+  Couple things I like about her solutions: 
+  	1. She puts the prompts into the jupyter notebook.  Not sure if I want to do this but
+  	it might make it more readable if others want to look at it.  Maybe at least links to
+  	the day in question.
+  	2. She often uses functions better.  I've gotten somewhat lazy about rewriting some stuff that
+  	could be in functions. For example, yesterday I wish I'd written a function that runs 
+  	the simulation for X number of days, I wrote that loop out a bunch of times for no reason.
+  	3. She keeps track of getting the answer wrong.  I might need to show this better in my
+  	jupyter notebooks as well.
 </details>
 
 
