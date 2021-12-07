@@ -67,3 +67,24 @@ Sarah Stevens working on the [Advent of Code](https://adventofcode.com/2021)
   which seems silly now but somehow I couldn't keep it straight in my head. 
 </details>
 
+
+<details>
+  <summary> Day 6</summary>
+  
+  This was an interesting one.  They say if part 2 is difficult, than you probably didn't 
+  solve part 1 very well.  That was certainly the case for me.  My first solution for
+  part 1 was really easy to create.  Then when I went to do part 2 it seemed like it would
+  be easy but it was really slow, prohibitively so.  It would get half way through the 
+  iterations needed and be very very slow.
+  
+  I then tried a numpy solution which I never got working quite right and was still taking
+  about the same amount of time.  I had a bad headache so when I came back to it the next day, I realized
+  I needed a different solution.  I realized I needed a dictionary instead to keep track of
+  states instead of modeling all the individuals as I did with solution 1.  Got stuck for
+  a while where it wasn't working because the dictionary needed to be sorted then worked it
+  out.
+</details>
+
+
+
+
