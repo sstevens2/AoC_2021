@@ -85,6 +85,16 @@ Sarah Stevens working on the [Advent of Code](https://adventofcode.com/2021)
   out.
 </details>
 
-
+<details>
+  <summary> Day 7</summary>
+  
+  This one tricked me good in part 2.  It wasn't too bad a solve in either case but I made
+  a silly error that was really difficult to see.  Part 1 went really smooth, though I got
+  lucky because my solution wasn't quite right but still worked. Then I could not get pt 2
+  to work.  My fuel calculating function was working fine on the test set but I was looking
+  through all the positions that were in the input instead of all the possible positions.
+  For part 1 I got lucky it was one of the existing positions but that wasn't true for part
+  2 where all the subs needed to move.
+</details>
 
 
